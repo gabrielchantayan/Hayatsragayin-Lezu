@@ -18,9 +18,9 @@ This project will present a few challenges that I am (for some at least) excited
 1) This programming language is not written my own dialect. I speak a (predominantly) Baku-based dialect, 
 while this language is written in standard Eastern Armenian. According to Armenian orthographical rules, 
 one must write in the way they speak (eye dialect *is* the standard), however for the purposes of this 
-project (and my own sanity) I have chosen to standardize on the national standard.
+project (and my own sanity) I have chosen to standardize on the Armenian Republic's national standard. 
 
-2) I have never written a programming language before. I am going in to this totally blind. We shall see 
+2) I have never written a programming language before[1]. I am going in to this totally blind. We shall see 
 how big of an issue that really is.
 
 3) Armenian has no word order. I want to preserve this in the syntax of the language itself. Luckily I have 
@@ -40,6 +40,9 @@ With `shun` and `katu`, `shun@ lav e` but `katun lav e`.
 5) Claude Opus does not like Armenian text. It shits itself anytime an Armenian token is outputted (no 
 more similar-character injection attacks I guess). I don't feel like dumping money in to Codex or Gemini, so 
 this will have to be an undertaking of my own implement.
+
+[1] Semi-lie. I *have* written an interpreted golflang before, but it was extremely rudimentary and hasn't been touched
+in nearly a decade. This is my first real attempt at a *compiled, turing-complete* language.
 
 ---
 
