@@ -37,9 +37,15 @@ sound of the word it is modifying or the first sound of the next word is a vowel
 Otherwise, it is `-@` (the same sound as *a* in about or *u* in under). With `ban`, `ban@ mets e` but `bann e mets`. 
 With `shun` and `katu`, `shun@ lav e` but `katun lav e`.
 
+
 5) Claude Opus does not like Armenian text. It shits itself anytime an Armenian token is outputted (no 
 more similar-character injection attacks I guess). I don't feel like dumping money in to Codex or Gemini, so 
 this will have to be an undertaking of my own implement.
+
+6) Neovim does not play well with the Armenian keyboard. Kindof go-figure, but this has resulted in me using CotEditor 
+as an "IDE". Something is also up with my nerd font where the kerning is messed up with Armenian-language text but only 
+in my terminal. I don't want to give up my nerd font so yeah. RETVRN to the days of writing code in Notepad, I guess. 
+(What a weird hill to die on...)
 
 [1] Semi-lie. I *have* written an interpreted golflang before, but it was extremely rudimentary and hasn't been touched
 in nearly a decade. This is my first real attempt at a *compiled, turing-complete* language.
