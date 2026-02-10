@@ -66,7 +66,7 @@ Reads a line of input from the user. Returns a string.
 "Anund inch a?" aseq.
 nor togh patasxan@ kardaceq e.
 
-"WHat is your name?" say.
+"What is your name?" say.
 new string answer input is.
 ```
 

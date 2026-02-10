@@ -5,7 +5,7 @@ _hay•a•tsr•a•gay•in le•zu_
 This is an attempt to create a programming language based on the grammatical structure of Armenian.
 
 ## Why
-Inspired by [https://github.com/kip-dili/kip](kip), I wanted to take a stab at what a programming 
+Inspired by [kip](https://github.com/kip-dili/kip), I wanted to take a stab at what a programming 
 language would look like if it were created according to the grammatical structure of my own native 
 language. 
 
